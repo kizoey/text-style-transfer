@@ -25,5 +25,5 @@ Machine transformers of our model are modeled through sequence to sequence(Seq2S
 ### _ppt_
 - proposal
 - final_report
-
+- final_presentation (top 13 teams)
 ###### <i>GYFAC corpus is not shown due to confidential issues.</i>
